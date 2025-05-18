@@ -61,7 +61,8 @@ C=a-b
 
 
 # OUTPUT
-![alt text](op.png)
+![image](https://github.com/user-attachments/assets/2ebb0a9e-5747-4cbd-bfc7-e83a733bbf8e)
+
 
 # Result
 The back end of the compiler is implemented successfully, and the output is verified.
